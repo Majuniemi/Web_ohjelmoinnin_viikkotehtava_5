@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    background-color: black;
+    margin: 30vh;
+}
+
+div#dice {
+    display: flex;
+    height: 30vh;
+    justify-content: center;
+}
